@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/PORTAL/v1/opp_portal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STORAGE_SIMBIRSOFT/storage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STORAGE_SIMBIRSOFT/storage_security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/STORAGE_SIMBIRSOFT/storage_v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/distance_calc_javaee" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git learn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/opp_portal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sweater_" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sweater_old" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/word_counter/word_counter" vcs="Git" />
+  </component>
+</project>
